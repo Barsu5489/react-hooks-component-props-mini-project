@@ -13,6 +13,7 @@ function App() {
       the browser as you write your code; and good luck!
 <Header />
 <About/>
+<ArticleList/>
 
     </div>
   );
